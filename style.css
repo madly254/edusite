@@ -26,7 +26,7 @@ a {
 /* Header Section */
 .header {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                url('hero-bg.jpg') center/cover;
+                url('./media/hero-bg.jpg') center/cover;
     height: 100vh;
     color: var(--white);
     display: flex;
